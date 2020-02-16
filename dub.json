@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"techcogs"
+	],
+	"copyright": "Copyright © 2020, techcogs",
+	"description": "A simple password generator.",
+	"license": "GPLv3",
+	"name": "passgen"
+}

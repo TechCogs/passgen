@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/passgen
+passgen.so
+passgen.dylib
+passgen.dll
+passgen.a
+passgen.lib
+passgen-test-*
+*.exe
+*.o
+*.obj
+*.lst
